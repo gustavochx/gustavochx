@@ -4,7 +4,7 @@
 ### Gustavo H. F. Soares.
 #### I'm a iOS Developer at [ArcTouch](https://arctouch.com/) 🥸💻📲
 
-- 🔭 Developing some bugs in Swift, but also improving my codings skills and learning about others stacks like: C, Java and Kotlin.
+- 🔭 Developing some bugs in Swift.
 - 🌱 Currently focus at improve knowledge on Unit/UI Tests and SwiftUI with Combine.
 - 🧑‍🎓 Taking the BEPiD (Apple Developer Academy)
 - 😄 Pronouns: he/him
