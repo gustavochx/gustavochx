@@ -1,8 +1,8 @@
 ### Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 
-## I'm Gustavo H. F. Soares.
-## Software Enginner, i do mobile development, specifically iOS, at [ArcTouch](https://arctouch.com/) 🥸💻📲
+## Gustavo H. F. Soares.
+## Software Enginner, I'm a iOS Developer at [ArcTouch](https://arctouch.com/) 🥸💻📲
 
 - 🔭 Developing some bugs in Swift, but also improving my codings skills and learning about C and other stacks.
 - 🌱 Currently focus at improve knowledge on Unit/UI Tests and SwiftUI with Combine.
