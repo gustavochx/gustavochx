@@ -8,7 +8,7 @@
 - 🌱 Currently focus at improve knowledge on Unit/UI Tests and SwiftUI with Combine.
 - 🧑‍🎓 Taking the BEPiD (Apple Developer Academy)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I listen anime openings when i'm gonna run =p 
+- ⚡ Fun fact: I listen anime openings when go out for a run =p 
 
  <div>
   <a href="https://github.com/gustavochx">
