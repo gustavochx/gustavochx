@@ -1,7 +1,11 @@
-### Gustavo Soares - iOS Developer 🥸💻📲
+### Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-- 🔭 Developing some bugs in Swift, but learning about C things.
+
+## Gustavo Soares Software Enginner, i'm a iOS Developer at [ArcTouch](https://arctouch.com/) 🥸💻📲
+
+- 🔭 Developing some bugs in Swift, but also constantly improving my codings skills and earning about C things.
 - 🌱 Currently focus at improve knowledge on Unit/UI Tests and SwiftUI with Combine.
+- 🧑‍🎓 Taking the BEPiD (Apple Developer Academy)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I listen anime openings when i'm gonna run =p 
 
