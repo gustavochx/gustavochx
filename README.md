@@ -5,7 +5,7 @@
 #### I'm a iOS Developer at [ArcTouch](https://arctouch.com/) 🥸💻📲
 
 - 🔭 Developing some bugs in Swift.
-- 🌱 Currently focus at improve knowledge on Unit/UI Tests and SwiftUI with Combine.
+- 🌱 Currently focus at improve knowledge on SwiftUI with Combine.
 - 🧑‍🎓 Taking the BEPiD (Apple Developer Academy)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I listen anime openings when go out for a run =p 
