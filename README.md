@@ -1,8 +1,7 @@
 ## Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ### Gustavo Soares
-#### iOS Engineer at [ArcTouch](https://arctouch.com/) 🥸💻📲
-
+#### iOS Engineer at [ArcTouch](https://arctouch.com/)
 - 🔭 Developing some bugs in Swift.
 - 🌱 Currently focus at improve knowledge on SwiftUI with Combine.
 - 💼 Previously @ Sicoob, QRIAR, CooperSystem, Developer Academy, IESB, UCB.
