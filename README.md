@@ -1,29 +1,35 @@
-## Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h1 align="center">Hi everyone, I'm Gustavo Soares 🙏🏻</h1>
 
-### Gustavo Soares
-#### iOS Engineer at [ArcTouch](https://arctouch.com/)
-- 🔭 Developing some bugs in Swift.
-- 🌱 Currently focus at improve knowledge on SwiftUI with Combine.
-- 💼 Previously @ Sicoob, QRIAR, CooperSystem, Developer Academy, IESB, UCB.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I listen anime openings when go out for a run 🏃🏻
+<p align="center">
+  <em>Senior iOS Software Engineer at <a href="https://github.com/arctouch">@ArcTouch<br>
+  <em>🇧🇷 Brazilian · 📍 Brasília, Brazil</em>
+</p>
 
-<div style="display: inline_block"><br>
- <code><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-  <code><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-  <code><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-    <code><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-</div><br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-henrique-frota-soares-7424b3107/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavochx&show_icons=true&theme=calm&hide=stars,contribs)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavochx&hide=html,css&langs_count=5&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+## 👨🏻‍💻 About Me
 
-##
-  
-  <div> 
-  <a href="https://www.linkedin.com/in/gustavo-henrique-frota-soares-7424b3107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   
-</div>
+iOS Engineer with expertise in building scalable mobile applications.
+
+- 📱 Wrote my first lines of **Objective-C** in 2015, **iOS as main stack since 2015**
+- 🚀 Shipped **10+ apps** across fintech, aviation, banking, retail, logistics, and security
+- 🎯 Specialized in **modularization**, **software architecture**, and **code quality**
+- 🌱 Exploring **Kotlin Multiplatform (KMP)** and **AI**
+- 🎤 Trying to public speak and share my experiences
+
+---
+
+
+## 📫 Let's Connect
+
+<p align="center">
+  I'm always open to interesting conversations, collaborations on Swift open source projects, and community discussions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-henrique-frota-soares-7424b3107/?locale=en-US">💼 LinkedIn</a> •
+</p>
