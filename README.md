@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Senior iOS Software Engineer at <a href="https://github.com/arctouch">@ArcTouch<br>
-  <em>🇧🇷 Brazilian · 📍 Brasília, Brazil</em>
+  <em>🇧🇷 Brazilian - 📍 Brasília, Brazil</em>
 </p>
 
 <p align="center">
@@ -31,5 +31,5 @@ iOS Engineer with expertise in building scalable mobile applications.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-henrique-frota-soares-7424b3107/?locale=en-US">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/gustavo-henrique-frota-soares-7424b3107/?locale=en-US">💼 LinkedIn</a>
 </p>
